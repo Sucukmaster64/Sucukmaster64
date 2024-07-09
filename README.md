@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/salihsav64" target="blank"><img src="https://img.shields.io/twitter/follow/salihsav64?logo=twitter&style=for-the-badge" alt="salihsav64" /></a> </p>
 
-- 🔭 I’m currently working on **School intern porject**
+- 🔭 I’m currently working on **an School intern porject**
 
 - 🌱 I’m currently learning **Java, Python and C**
 
