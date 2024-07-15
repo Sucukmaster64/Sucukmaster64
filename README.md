@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an School intern porject**
 
-- 🌱 I’m currently learning **Java, Python and C**
+- 🌱 I’m currently learning **Java, Python and Go**
 
 - 📫 How to reach me **savuransalih@icloud.com**
 
